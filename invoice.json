@@ -1,0 +1,49 @@
+[{
+        "docId": "51487101",
+        "docName": "Invoice #1 of 08/01/2021",
+        "docAmount": 20,
+        "docDate": "08/01/2021",
+        "dueDate": "31/12/2020",
+        "customerReference": 301,
+        "reasonDocId": "51412901",
+        "docStateId": "5003",
+        "docStateName": "Canceled",
+        "invoiceLines": [{
+            "currencyId": "2044",
+            "currencyName": "$ [USD]",
+            "serviceId": "51088901",
+            "serviceName": "GSP_Business_4M_1M",
+            "quantity": 1,
+            "unitId": "1009",
+            "unitName": "pcs",
+            "price": 20,
+            "taxRateId": "3005",
+            "taxRateVal": "18%",
+            "discount": 0
+        }]
+    },
+    {
+        "docId": "51485101",
+        "docName": "Invoice #1 of 31/12/2020",
+        "docAmount": 15,
+        "docDate": "31/12/2020",
+        "dueDate": "31/12/2020",
+        "customerReference": 50156801,
+        "reasonDocId": "51124201",
+        "docStateId": "5003",
+        "docStateName": "Canceled",
+        "invoiceLines": [{
+            "currencyId": "2044",
+            "currencyName": "$ [USD]",
+            "serviceId": "51088901",
+            "serviceName": "GSP_Business_4M_1M",
+            "quantity": 1,
+            "unitId": "1009",
+            "unitName": "pcs",
+            "price": 15,
+            "taxRateId": "3005",
+            "taxRateVal": "18%",
+            "discount": 0
+        }]
+    }
+]
